@@ -1,5 +1,6 @@
 # ShapesTopDownShooter
 Game Description
+
 Shapes RPG is a 2D isometric shooter that involves drawing shapes on screen 
 to attack enemies. The game follows the main character, depicted as a square, on their 
 journey to free their world of the dictators that currently rule. The game features a semiopen world map as well as unique world hazards and enemies. 
